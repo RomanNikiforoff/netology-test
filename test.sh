@@ -1,5 +1,6 @@
 #!/bin/bash
 # add new comment
+# comment from main
 git checkout develop
 
 git branch|grep -v develop > branch-list
